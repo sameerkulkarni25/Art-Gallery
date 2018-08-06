@@ -1,0 +1,27 @@
+h1{
+  text-align: center;
+  font-family: 'font-family: 'Merriweather', serif;
+}
+.aaa{
+  margin: auto;
+}
+td{
+  background-color: black;
+  height: 200px;
+  width: 150px;
+}
+#one{
+  background-color: #264653;
+}
+#two{
+  background-color: #2A9D8F;
+}
+#three{
+  background: #E9C46A;
+}
+#fourth{
+  background-color: #F4A261
+}
+p{
+  text-align: center;
+}
